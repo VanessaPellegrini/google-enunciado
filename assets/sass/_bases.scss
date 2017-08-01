@@ -94,4 +94,22 @@ body{
 			}
 		}
 	}
+	section.dobleFoto.container{
+		img{
+			@include imagen_responsive();
+			padding: 10px;
+		}
+		.cajaTexto{
+			padding: 10px;
+			h6{
+				color:$gris_oscuro_titulos;
+			}
+			p{
+				color:$gris_texto;
+			}
+		}
+	}
+	footer{
+		border-top: $azul solid;
+	}
 }

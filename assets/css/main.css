@@ -6888,5 +6888,16 @@ body section.newsfeed.container {
     background-color: #F8F8FA;
     padding: 35px 135px;
     display: inline-grid b; }
+body section.dobleFoto.container img {
+  width: 100%;
+  padding: 10px; }
+body section.dobleFoto.container .cajaTexto {
+  padding: 10px; }
+  body section.dobleFoto.container .cajaTexto h6 {
+    color: #424242; }
+  body section.dobleFoto.container .cajaTexto p {
+    color: #414549; }
+body footer {
+  border-top: #4285f4 solid; }
 
 /*# sourceMappingURL=main.css.map */
