@@ -6899,5 +6899,17 @@ body section.dobleFoto.container .cajaTexto {
     color: #414549; }
 body footer {
   border-top: #4285f4 solid; }
+  body footer div.row div.col-6 div.row .col-6 .cajaDer {
+    position: relative;
+    display: grid;
+    left: 208px; }
+    body footer div.row div.col-6 div.row .col-6 .cajaDer a {
+      color: #414549; }
+  body footer div.row div.col-6 div.row .col-6 .cajaIz {
+    position: relative;
+    display: grid;
+    top: 23px; }
+    body footer div.row div.col-6 div.row .col-6 .cajaIz a {
+      color: #414549; }
 
 /*# sourceMappingURL=main.css.map */

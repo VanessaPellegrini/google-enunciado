@@ -111,5 +111,30 @@ body{
 	}
 	footer{
 		border-top: $azul solid;
+		div.row{
+			div.col-6{
+				div.row{
+					.col-6{
+						.cajaDer{
+							position:relative;
+							display:grid;
+							left: 208px;;
+							a{
+								color:$gris_texto;
+							}
+						}
+						.cajaIz{
+							position:relative;
+							display:grid;
+							top: 23px;
+							a{
+								color:$gris_texto;
+							}
+						}
+					}
+				}
+			}
+		}
+		
 	}
 }
